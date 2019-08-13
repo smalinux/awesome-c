@@ -5,3 +5,6 @@ A curated list of awesome C frameworks, libraries and software.
 
 ## System Programming
 * [SystemProgramming](https://github.com/angrave/SystemProgramming/wiki) - CS241 "Intro to System Programming"
+
+## Lists
+* [rby90/Project-Based-Tutorials-in-C](https://github.com/rby90/Project-Based-Tutorials-in-C) - A curated list of project-based tutorials in C
