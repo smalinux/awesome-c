@@ -8,6 +8,7 @@ A curated list of awesome C frameworks, libraries and software.
 
 ## Lists
 * [rby90/Project-Based-Tutorials-in-C](https://github.com/rby90/Project-Based-Tutorials-in-C) - A curated list of project-based tutorials in C
+* [aleksandar-todorovic/awesome-c](https://github.com/aleksandar-todorovic/awesome-c) - Continuing the development of awesome-c list on GitHub
 
 ## Book Lists
 * [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - Freely available programming books
@@ -15,3 +16,5 @@ A curated list of awesome C frameworks, libraries and software.
 
 ## awesome-x Lists
 * [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos.
+
+## Ncurses based
