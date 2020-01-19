@@ -7,6 +7,7 @@ A curated list of awesome C frameworks, libraries and software.
 
 ## System Programming
 * [SystemProgramming](https://github.com/angrave/SystemProgramming/wiki) - CS241 "Intro to System Programming"
+* [Teach Yourself Computer Science](https://teachyourselfcs.com/) - Good as fuck roadmap!
 * [Arif Butt](https://www.youtube.com/channel/UCMqUl4U_8LwHiXT09_ouzxQ/playlists?disable_polymer=1) - YouTube Cannel
 * https://github.com/cfenollosa/os-tutorial
 * https://github.com/cirosantilli/linux-kernel-module-cheat
